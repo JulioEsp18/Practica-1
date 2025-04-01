@@ -1,6 +1,6 @@
 # Practica-1 "HOLA A TODOS"
 Primera modificación al README en mi practica remota 
-Hola nuevamente 
+Hola nuevamente equipo.
 Hola a todos estoy modificando el README nuevamente
 <<<<<<< HEAD
 Haciendo prueba de conflictos.
