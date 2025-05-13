@@ -8,6 +8,8 @@ Hola nuevamente equipo.
 Hola a todos estoy modificando el README nuevamente
 <<<<<<< HEAD
 Haciendo prueba de conflictos.
+>>>>>>>
+>>>>>>> Modificacion remota
 =======
 
 >>>>>>> 1eaa8a1855bd6f9a05be290f43dc1217e4f7f9cf
