@@ -11,6 +11,7 @@ Haciendo prueba de conflictos.
 >>>>>>>
 >>>>>>> Modificacion remota
 SUBIENDO CAMBIOS LOCALES A REMOTO
+SUBIENDO NUEVAMENTE CAMBIOS LOCALES
 =======
 
 >>>>>>> 1eaa8a1855bd6f9a05be290f43dc1217e4f7f9cf
